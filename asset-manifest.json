@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/RealEstatePredictor/static/css/main.88eecf20.css",
+    "main.js": "/RealEstatePredictor/static/js/main.226e7f92.js",
+    "static/js/453.eb30d820.chunk.js": "/RealEstatePredictor/static/js/453.eb30d820.chunk.js",
+    "static/media/BackgroundImage.png": "/RealEstatePredictor/static/media/BackgroundImage.0e4ade86039629b82ade.png",
+    "index.html": "/RealEstatePredictor/index.html",
+    "main.88eecf20.css.map": "/RealEstatePredictor/static/css/main.88eecf20.css.map",
+    "main.226e7f92.js.map": "/RealEstatePredictor/static/js/main.226e7f92.js.map",
+    "453.eb30d820.chunk.js.map": "/RealEstatePredictor/static/js/453.eb30d820.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88eecf20.css",
+    "static/js/main.226e7f92.js"
+  ]
+}
