@@ -1,6 +1,3 @@
-Here is the complete content for your updated README.md file in the correct format:
-
-```markdown
 # Real Estate Price Prediction App
 
 **[Live Demo](https://jyothi2828.github.io/real-estate-price-prediction-brainjs/)**
@@ -72,6 +69,4 @@ This app predicts real estate prices using a neural network model implemented wi
 - AI-powered home value estimator
 - Data-driven real estate decisions
 - Automated house price forecasting
-```
 
-You can now update your `README.md` file with this content.
