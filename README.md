@@ -1,6 +1,6 @@
 # Real Estate Price Prediction App
 
-**[Live Demo](https://jyothi2828.github.io/real-estate-price-prediction-brainjs/)**
+**[Live Demo](https://jyothi2828.github.io/RealEstatePredictor/)**
 
 ## Overview
 This app predicts real estate prices using a neural network model implemented with Brain.js and a user-friendly interface built with React.js.
