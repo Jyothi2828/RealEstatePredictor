@@ -1,0 +1,163 @@
+.feedback-container {
+    max-width: 80%;
+    margin: 20px auto;
+    background-color: #F8FAFC;
+    padding: 10px;
+    border: 2px ;
+    border-radius: 10px; /* Rounded corners */
+}
+
+@media (max-width: 1024px) {
+    .feedback-container {
+        padding: 15px;
+    }
+
+    .feedback-title {
+        font-size: 1.2rem;
+    }
+
+    .emoji-btn {
+        font-size: 1.5rem;
+    }
+}
+
+@media (max-width: 768px) {
+    .feedback-title {
+        font-size: 1rem;
+    }
+
+    .emoji-btn {
+        font-size: 1.2rem;
+    }
+
+    .input-group label {
+        font-size: 0.8rem;
+    }
+
+    .input-group textarea {
+        font-size: 0.9rem;
+    }
+}
+
+.feedback-container.blurred {
+    filter: blur(5px);
+    pointer-events: none;
+}
+
+.feedback-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-align: center;
+    color: #6482AD;
+    margin-bottom: 15px;
+}
+
+.feedback-form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.emoji-container {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+
+.emoji-btn {
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-size: 2rem;
+    transition: transform 0.2s ease-in-out;
+}
+
+.emoji-btn:hover,
+.emoji-btn.active {
+    transform: scale(1.2);
+}
+
+.emoji-btn p {
+    font-size: 0.9rem;
+    color: #000000;
+    text-align: center;
+}
+
+.input-group {
+    display: flex;
+    flex-direction: column;
+}
+
+.input-group label {
+    font-size: 0.9rem;
+    margin-bottom: 5px;
+    color: #213555;
+}
+
+.input-group textarea {
+    border: 1px solid #BED7DC;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 1rem;
+    resize: none;
+    background-color: #D9EAFD;
+}
+
+.error-message {
+    color: #FF6464;
+    font-size: 0.9rem;
+    text-align: center;
+}
+
+.success-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(248, 250, 252, 0.8);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1;
+}
+
+.success-message {
+    color: #0D4715;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.submit-btn {
+    background-color: #6482AD;
+    color: white;
+    padding: 10px;
+    font-size: 1rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s ease-in-out;
+}
+
+.submit-btn:hover {
+    background-color: #9AA6B2;
+}
+
+.no-price-message {
+    color: #B5C0D0;
+    font-size: 14px;
+    font-style: italic;
+    margin-top: 20px;
+    background-color: #E5E1DA;
+    border-radius: 5px;
+    text-align: center;
+    overflow: hidden;
+}
+
+.sentiment-message {
+    text-align: center;
+    margin-top: 10px;
+    font-style: italic;
+    color: #3C3D37;
+}

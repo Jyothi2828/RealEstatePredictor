@@ -1,0 +1,38 @@
+/* Chart specific styles */
+.chart-container {
+    background: white;
+    padding: 1rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    height: 300px !important;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+/* Chart responsive styles */
+@media (max-width: 968px) {
+    .chart-container {
+        height: 280px !important;
+        margin-bottom: 1rem;
+        padding: 0.8rem;
+    }
+}
+
+@media (max-width: 768px) {
+    .chart-container {
+        height: 260px !important;
+        margin: 8px 0;
+        padding: 0.8rem;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .chart-container {
+        height: 220px !important;
+        padding: 0.5rem;
+        margin-bottom: 0.8rem;
+        width: 100%;
+        max-width: 100%;
+        overflow: hidden;
+    }
+}

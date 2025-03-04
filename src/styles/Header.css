@@ -1,0 +1,20 @@
+.header {
+    background: #6482AD;
+    padding: 1rem 0;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.header-title {
+    margin: 0;
+    text-align: center;
+    color: white;
+    font-family: Calibri, sans-serif;
+    font-size: 2rem;
+    font-weight: 600;
+    letter-spacing: 1px;
+}

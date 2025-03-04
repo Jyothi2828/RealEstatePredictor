@@ -1,0 +1,245 @@
+/* App Styles */
+.App {
+  display: flex;
+}
+
+.chart-container {
+  padding: 20px;
+  flex: 1;
+}
+
+/* Form Styles */
+.form-container {
+  max-width: 100%;
+  padding: 1rem;
+  border-radius: 0.75rem;
+  background-color: #F8FAFC;
+  color: #333333;
+}
+
+.title {
+  text-align: center;
+  font-size: 1.5rem;
+  line-height: 2rem;
+  font-weight: 700;
+  color: #333333;
+  margin-bottom: 1.5rem;
+}
+
+.form {
+  margin-top: 1.5rem;
+}
+
+.input-group {
+  margin-top: 0.25rem;
+  font-size: small;
+  line-height: 1.25rem;
+  width: 100%;
+  margin-bottom: 1rem;
+}
+
+.input-group label {
+  display: block;
+  color: #333333;
+  margin-bottom: 4px;
+  font-weight: bold;
+  font-size: large;
+}
+
+@media (max-width: 1024px) {
+  .form-container {
+    padding: 1rem;
+  }
+
+  .title {
+    font-size: 1.2rem;
+  }
+
+  .input-group label {
+    font-size: 0.9rem;
+  }
+
+  .input-group input {
+    font-size: 0.9rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .title {
+    font-size: 1rem;
+  }
+
+  .input-group label {
+    font-size: 0.8rem;
+  }
+
+  .input-group input {
+    font-size: 0.8rem;
+  }
+
+  .btn-12 {
+    padding: 0.6rem 2rem;
+    font-size: 0.9rem;
+  }
+}
+
+.input-group input {
+  width: 100%;
+  border-radius: 0.375rem;
+  border: 1px solid #9AA6B2;
+  outline: 0;
+  background-color: #D9EAFD;
+  padding: 0.75rem 1rem;
+  color: #333333;
+  box-sizing: border-box;
+}
+
+/* Remove number input spinners */
+.input-group input[type="number"]::-webkit-inner-spin-button,
+.input-group input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.input-group input[type="number"] {
+  -moz-appearance: textfield;
+}
+
+/* Placeholder styles */
+.input-group input::placeholder {
+  color: #6B7280;
+  opacity: 0.7;
+  font-size: 0.9rem;
+}
+
+.input-group input:focus {
+  border-color: #1E3E62;
+  box-shadow: 0 0 0 2px rgba(30, 62, 98, 0.1);
+}
+
+.radio-input {
+  position: relative;
+  display: flex;
+  align-items: center;
+  border-radius: 0.375rem;
+  background-color: #D9EAFD;
+  color: #333333;
+  width: 100%;
+  overflow: hidden;
+  border: 1px solid #9AA6B2;
+  margin-bottom: 0.5rem;
+  gap: 1rem;
+  margin: 0.5rem 0;
+  cursor: pointer;
+}
+
+.radio-input label {
+  flex: 1;
+  padding: 0.75rem 1rem;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1;
+  font-weight: 600;
+  font-size: 14px;
+  transition: color 0.3s ease;
+}
+
+.radio-input input[type="radio"] {
+  display: none;
+}
+
+.selection {
+  position: absolute;
+  height: 100%;
+  width: 33.33%;
+  z-index: 0;
+  left: 0;
+  top: 0;
+  transition: transform 0.3s ease;
+  background-color: #789DBC;
+}
+
+.radio-input input[type="radio"]:checked + label {
+  color: #fff;
+}
+
+.radio-input input[type="radio"]:nth-of-type(1):checked ~ .selection {
+  transform: translateX(0);
+}
+
+.radio-input input[type="radio"]:nth-of-type(2):checked ~ .selection {
+  transform: translateX(100%);
+}
+
+.radio-input input[type="radio"]:nth-of-type(3):checked ~ .selection {
+  transform: translateX(200%);
+}
+
+.btn-12 {
+  background-color: #9AA6B2;
+  color: #333333;
+  font-weight: 700;
+  margin: 1.5rem 0;
+  border-radius: 0.375rem;
+  padding: 0.8rem 3rem;
+  width: 100%;
+  display: block;
+  text-align: center;
+  text-transform: uppercase;
+  transition: background-color 0.2s ease;
+  border: none;
+  cursor: pointer;
+}
+
+.btn-12:hover {
+  background-color: #F8FAFC;
+}
+
+.form-container-predicted-price {
+  width: 100%;
+  border-radius: 0.75rem;
+  background-color: #bccde6;
+  color: #333333;
+  margin-top: 1rem;
+  text-align: center;
+  box-sizing: border-box;
+  border: 1px solid #9AA6B2;
+  height: auto;
+}
+
+.form-container-predicted-price .title {
+  font-weight: bold;
+}
+
+.error {
+  color: #dc3545;
+  font-size: 0.85rem;
+  margin-top: 0.25rem;
+  display: block;
+}
+
+.radio-group {
+  display: flex;
+  gap: 1.5rem;
+  margin: 0.5rem 0;
+}
+
+.radio-option {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.radio-label {
+  cursor: pointer;
+  font-size: 0.95rem;
+  color: #333;
+}
+
+.error-message {
+  color: #dc3545;
+  font-size: 0.85rem;
+  margin-top: 0.5rem;
+}

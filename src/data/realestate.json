@@ -1,0 +1,802 @@
+[
+    {
+        "Area": "1360",
+        "Bedrooms": "2",
+        "Bathrooms": "1",
+        "Location": "Downtown",
+        "Age of Property": "1",
+        "Price": "764"
+    },
+    {
+        "Area": "4272",
+        "Bedrooms": "2",
+        "Bathrooms": "3",
+        "Location": "Rural",
+        "Age of Property": "47",
+        "Price": "673"
+    },
+    {
+        "Area": "3592",
+        "Bedrooms": "4",
+        "Bathrooms": "2",
+        "Location": "Downtown",
+        "Age of Property": "34",
+        "Price": "1051"
+    },
+    {
+        "Area": "966",
+        "Bedrooms": "5",
+        "Bathrooms": "1",
+        "Location": "Rural",
+        "Age of Property": "32",
+        "Price": "462"
+    },
+    {
+        "Area": "4926",
+        "Bedrooms": "3",
+        "Bathrooms": "3",
+        "Location": "Suburban",
+        "Age of Property": "48",
+        "Price": "936"
+    },
+    {
+        "Area": "3944",
+        "Bedrooms": "1",
+        "Bathrooms": "1",
+        "Location": "Downtown",
+        "Age of Property": "25",
+        "Price": "924"
+    },
+    {
+        "Area": "3671",
+        "Bedrooms": "4",
+        "Bathrooms": "1",
+        "Location": "Suburban",
+        "Age of Property": "40",
+        "Price": "817"
+    },
+    {
+        "Area": "3419",
+        "Bedrooms": "5",
+        "Bathrooms": "2",
+        "Location": "Rural",
+        "Age of Property": "45",
+        "Price": "711"
+    },
+    {
+        "Area": "630",
+        "Bedrooms": "4",
+        "Bathrooms": "3",
+        "Location": "Suburban",
+        "Age of Property": "1",
+        "Price": "651"
+    },
+    {
+        "Area": "2185",
+        "Bedrooms": "5",
+        "Bathrooms": "3",
+        "Location": "Suburban",
+        "Age of Property": "16",
+        "Price": "826"
+    },
+    {
+        "Area": "1269",
+        "Bedrooms": "5",
+        "Bathrooms": "2",
+        "Location": "Rural",
+        "Age of Property": "39",
+        "Price": "508"
+    },
+    {
+        "Area": "2891",
+        "Bedrooms": "3",
+        "Bathrooms": "2",
+        "Location": "Suburban",
+        "Age of Property": "5",
+        "Price": "789"
+    },
+    {
+        "Area": "2933",
+        "Bedrooms": "5",
+        "Bathrooms": "3",
+        "Location": "Suburban",
+        "Age of Property": "22",
+        "Price": "889"
+    },
+    {
+        "Area": "1684",
+        "Bedrooms": "4",
+        "Bathrooms": "3",
+        "Location": "Rural",
+        "Age of Property": "29",
+        "Price": "550"
+    },
+    {
+        "Area": "3885",
+        "Bedrooms": "5",
+        "Bathrooms": "2",
+        "Location": "Suburban",
+        "Age of Property": "3",
+        "Price": "992"
+    },
+    {
+        "Area": "4617",
+        "Bedrooms": "3",
+        "Bathrooms": "1",
+        "Location": "Rural",
+        "Age of Property": "12",
+        "Price": "767"
+    },
+    {
+        "Area": "3404",
+        "Bedrooms": "3",
+        "Bathrooms": "1",
+        "Location": "Suburban",
+        "Age of Property": "26",
+        "Price": "768"
+    },
+    {
+        "Area": "974",
+        "Bedrooms": "4",
+        "Bathrooms": "2",
+        "Location": "Rural",
+        "Age of Property": "16",
+        "Price": "475"
+    },
+    {
+        "Area": "1582",
+        "Bedrooms": "2",
+        "Bathrooms": "1",
+        "Location": "Rural",
+        "Age of Property": "37",
+        "Price": "364"
+    },
+    {
+        "Area": "3058",
+        "Bedrooms": "2",
+        "Bathrooms": "2",
+        "Location": "Suburban",
+        "Age of Property": "22",
+        "Price": "721"
+    },
+    {
+        "Area": "2547",
+        "Bedrooms": "5",
+        "Bathrooms": "1",
+        "Location": "Suburban",
+        "Age of Property": "29",
+        "Price": "776"
+    },
+    {
+        "Area": "3247",
+        "Bedrooms": "1",
+        "Bathrooms": "1",
+        "Location": "Suburban",
+        "Age of Property": "14",
+        "Price": "676"
+    },
+    {
+        "Area": "1475",
+        "Bedrooms": "5",
+        "Bathrooms": "3",
+        "Location": "Downtown",
+        "Age of Property": "28",
+        "Price": "931"
+    },
+    {
+        "Area": "2306",
+        "Bedrooms": "4",
+        "Bathrooms": "3",
+        "Location": "Downtown",
+        "Age of Property": "5",
+        "Price": "1010"
+    },
+    {
+        "Area": "689",
+        "Bedrooms": "4",
+        "Bathrooms": "1",
+        "Location": "Downtown",
+        "Age of Property": "47",
+        "Price": "704"
+    },
+    {
+        "Area": "3234",
+        "Bedrooms": "4",
+        "Bathrooms": "1",
+        "Location": "Rural",
+        "Age of Property": "49",
+        "Price": "605"
+    },
+    {
+        "Area": "3505",
+        "Bedrooms": "4",
+        "Bathrooms": "3",
+        "Location": "Suburban",
+        "Age of Property": "30",
+        "Price": "880"
+    },
+    {
+        "Area": "2399",
+        "Bedrooms": "4",
+        "Bathrooms": "3",
+        "Location": "Rural",
+        "Age of Property": "46",
+        "Price": "587"
+    },
+    {
+        "Area": "1767",
+        "Bedrooms": "3",
+        "Bathrooms": "3",
+        "Location": "Downtown",
+        "Age of Property": "5",
+        "Price": "906"
+    },
+    {
+        "Area": "2028",
+        "Bedrooms": "2",
+        "Bathrooms": "2",
+        "Location": "Suburban",
+        "Age of Property": "12",
+        "Price": "638"
+    },
+    {
+        "Area": "3702",
+        "Bedrooms": "4",
+        "Bathrooms": "1",
+        "Location": "Rural",
+        "Age of Property": "16",
+        "Price": "718"
+    },
+    {
+        "Area": "4056",
+        "Bedrooms": "1",
+        "Bathrooms": "3",
+        "Location": "Suburban",
+        "Age of Property": "26",
+        "Price": "793"
+    },
+    {
+        "Area": "4390",
+        "Bedrooms": "1",
+        "Bathrooms": "1",
+        "Location": "Rural",
+        "Age of Property": "26",
+        "Price": "617"
+    },
+    {
+        "Area": "1146",
+        "Bedrooms": "1",
+        "Bathrooms": "2",
+        "Location": "Suburban",
+        "Age of Property": "48",
+        "Price": "428"
+    },
+    {
+        "Area": "3388",
+        "Bedrooms": "1",
+        "Bathrooms": "2",
+        "Location": "Downtown",
+        "Age of Property": "21",
+        "Price": "906"
+    },
+    {
+        "Area": "2935",
+        "Bedrooms": "3",
+        "Bathrooms": "3",
+        "Location": "Downtown",
+        "Age of Property": "39",
+        "Price": "955"
+    },
+    {
+        "Area": "1100",
+        "Bedrooms": "1",
+        "Bathrooms": "2",
+        "Location": "Suburban",
+        "Age of Property": "36",
+        "Price": "448"
+    },
+    {
+        "Area": "2863",
+        "Bedrooms": "4",
+        "Bathrooms": "1",
+        "Location": "Rural",
+        "Age of Property": "33",
+        "Price": "600"
+    },
+    {
+        "Area": "2561",
+        "Bedrooms": "5",
+        "Bathrooms": "3",
+        "Location": "Downtown",
+        "Age of Property": "30",
+        "Price": "1036"
+    },
+    {
+        "Area": "741",
+        "Bedrooms": "1",
+        "Bathrooms": "1",
+        "Location": "Downtown",
+        "Age of Property": "37",
+        "Price": "580"
+    },
+    {
+        "Area": "2541",
+        "Bedrooms": "3",
+        "Bathrooms": "1",
+        "Location": "Downtown",
+        "Age of Property": "23",
+        "Price": "888"
+    },
+    {
+        "Area": "3324",
+        "Bedrooms": "3",
+        "Bathrooms": "2",
+        "Location": "Suburban",
+        "Age of Property": "10",
+        "Price": "822"
+    },
+    {
+        "Area": "3112",
+        "Bedrooms": "1",
+        "Bathrooms": "2",
+        "Location": "Suburban",
+        "Age of Property": "5",
+        "Price": "711"
+    },
+    {
+        "Area": "1863",
+        "Bedrooms": "5",
+        "Bathrooms": "2",
+        "Location": "Rural",
+        "Age of Property": "36",
+        "Price": "574"
+    },
+    {
+        "Area": "1978",
+        "Bedrooms": "1",
+        "Bathrooms": "2",
+        "Location": "Rural",
+        "Age of Property": "34",
+        "Price": "389"
+    },
+    {
+        "Area": "3056",
+        "Bedrooms": "3",
+        "Bathrooms": "2",
+        "Location": "Rural",
+        "Age of Property": "31",
+        "Price": "603"
+    },
+    {
+        "Area": "1275",
+        "Bedrooms": "2",
+        "Bathrooms": "3",
+        "Location": "Suburban",
+        "Age of Property": "10",
+        "Price": "597"
+    },
+    {
+        "Area": "4514",
+        "Bedrooms": "4",
+        "Bathrooms": "1",
+        "Location": "Suburban",
+        "Age of Property": "19",
+        "Price": "943"
+    },
+    {
+        "Area": "534",
+        "Bedrooms": "3",
+        "Bathrooms": "1",
+        "Location": "Rural",
+        "Age of Property": "32",
+        "Price": "319"
+    },
+    {
+        "Area": "3652",
+        "Bedrooms": "1",
+        "Bathrooms": "1",
+        "Location": "Rural",
+        "Age of Property": "1",
+        "Price": "593"
+    },
+    {
+        "Area": "2455",
+        "Bedrooms": "4",
+        "Bathrooms": "1",
+        "Location": "Suburban",
+        "Age of Property": "5",
+        "Price": "765"
+    },
+    {
+        "Area": "2085",
+        "Bedrooms": "1",
+        "Bathrooms": "2",
+        "Location": "Rural",
+        "Age of Property": "45",
+        "Price": "378"
+    },
+    {
+        "Area": "4443",
+        "Bedrooms": "1",
+        "Bathrooms": "1",
+        "Location": "Downtown",
+        "Age of Property": "4",
+        "Price": "1016"
+    },
+    {
+        "Area": "3573",
+        "Bedrooms": "2",
+        "Bathrooms": "3",
+        "Location": "Suburban",
+        "Age of Property": "16",
+        "Price": "815"
+    },
+    {
+        "Area": "1521",
+        "Bedrooms": "4",
+        "Bathrooms": "3",
+        "Location": "Rural",
+        "Age of Property": "24",
+        "Price": "544"
+    },
+    {
+        "Area": "3961",
+        "Bedrooms": "4",
+        "Bathrooms": "1",
+        "Location": "Suburban",
+        "Age of Property": "16",
+        "Price": "894"
+    },
+    {
+        "Area": "3113",
+        "Bedrooms": "2",
+        "Bathrooms": "1",
+        "Location": "Downtown",
+        "Age of Property": "2",
+        "Price": "937"
+    },
+    {
+        "Area": "4343",
+        "Bedrooms": "3",
+        "Bathrooms": "3",
+        "Location": "Suburban",
+        "Age of Property": "49",
+        "Price": "876"
+    },
+    {
+        "Area": "2000",
+        "Bedrooms": "1",
+        "Bathrooms": "3",
+        "Location": "Suburban",
+        "Age of Property": "28",
+        "Price": "584"
+    },
+    {
+        "Area": "661",
+        "Bedrooms": "5",
+        "Bathrooms": "2",
+        "Location": "Suburban",
+        "Age of Property": "32",
+        "Price": "612"
+    },
+    {
+        "Area": "4797",
+        "Bedrooms": "1",
+        "Bathrooms": "3",
+        "Location": "Suburban",
+        "Age of Property": "27",
+        "Price": "865"
+    },
+    {
+        "Area": "2481",
+        "Bedrooms": "1",
+        "Bathrooms": "2",
+        "Location": "Downtown",
+        "Age of Property": "20",
+        "Price": "818"
+    },
+    {
+        "Area": "1495",
+        "Bedrooms": "3",
+        "Bathrooms": "2",
+        "Location": "Suburban",
+        "Age of Property": "24",
+        "Price": "611"
+    },
+    {
+        "Area": "3842",
+        "Bedrooms": "1",
+        "Bathrooms": "2",
+        "Location": "Suburban",
+        "Age of Property": "12",
+        "Price": "770"
+    },
+    {
+        "Area": "4298",
+        "Bedrooms": "2",
+        "Bathrooms": "2",
+        "Location": "Rural",
+        "Age of Property": "35",
+        "Price": "669"
+    },
+    {
+        "Area": "1775",
+        "Bedrooms": "2",
+        "Bathrooms": "2",
+        "Location": "Suburban",
+        "Age of Property": "33",
+        "Price": "571"
+    },
+    {
+        "Area": "1516",
+        "Bedrooms": "4",
+        "Bathrooms": "1",
+        "Location": "Rural",
+        "Age of Property": "33",
+        "Price": "465"
+    },
+    {
+        "Area": "837",
+        "Bedrooms": "5",
+        "Bathrooms": "3",
+        "Location": "Downtown",
+        "Age of Property": "43",
+        "Price": "837"
+    },
+    {
+        "Area": "1378",
+        "Bedrooms": "1",
+        "Bathrooms": "2",
+        "Location": "Downtown",
+        "Age of Property": "37",
+        "Price": "673"
+    },
+    {
+        "Area": "1576",
+        "Bedrooms": "1",
+        "Bathrooms": "3",
+        "Location": "Downtown",
+        "Age of Property": "12",
+        "Price": "773"
+    },
+    {
+        "Area": "4493",
+        "Bedrooms": "3",
+        "Bathrooms": "3",
+        "Location": "Downtown",
+        "Age of Property": "3",
+        "Price": "1183"
+    },
+    {
+        "Area": "879",
+        "Bedrooms": "2",
+        "Bathrooms": "2",
+        "Location": "Rural",
+        "Age of Property": "1",
+        "Price": "395"
+    },
+    {
+        "Area": "992",
+        "Bedrooms": "5",
+        "Bathrooms": "1",
+        "Location": "Suburban",
+        "Age of Property": "33",
+        "Price": "613"
+    },
+    {
+        "Area": "2562",
+        "Bedrooms": "4",
+        "Bathrooms": "2",
+        "Location": "Downtown",
+        "Age of Property": "40",
+        "Price": "936"
+    },
+    {
+        "Area": "4384",
+        "Bedrooms": "2",
+        "Bathrooms": "1",
+        "Location": "Suburban",
+        "Age of Property": "10",
+        "Price": "848"
+    },
+    {
+        "Area": "564",
+        "Bedrooms": "4",
+        "Bathrooms": "3",
+        "Location": "Rural",
+        "Age of Property": "43",
+        "Price": "410"
+    },
+    {
+        "Area": "3068",
+        "Bedrooms": "3",
+        "Bathrooms": "1",
+        "Location": "Rural",
+        "Age of Property": "44",
+        "Price": "548"
+    },
+    {
+        "Area": "2527",
+        "Bedrooms": "3",
+        "Bathrooms": "1",
+        "Location": "Rural",
+        "Age of Property": "29",
+        "Price": "524"
+    },
+    {
+        "Area": "3195",
+        "Bedrooms": "1",
+        "Bathrooms": "1",
+        "Location": "Downtown",
+        "Age of Property": "13",
+        "Price": "873"
+    },
+    {
+        "Area": "1995",
+        "Bedrooms": "5",
+        "Bathrooms": "3",
+        "Location": "Suburban",
+        "Age of Property": "12",
+        "Price": "815"
+    },
+    {
+        "Area": "891",
+        "Bedrooms": "4",
+        "Bathrooms": "3",
+        "Location": "Suburban",
+        "Age of Property": "31",
+        "Price": "617"
+    },
+    {
+        "Area": "4974",
+        "Bedrooms": "2",
+        "Bathrooms": "1",
+        "Location": "Suburban",
+        "Age of Property": "46",
+        "Price": "835"
+    },
+    {
+        "Area": "4061",
+        "Bedrooms": "3",
+        "Bathrooms": "1",
+        "Location": "Rural",
+        "Age of Property": "2",
+        "Price": "732"
+    },
+    {
+        "Area": "2778",
+        "Bedrooms": "1",
+        "Bathrooms": "2",
+        "Location": "Downtown",
+        "Age of Property": "35",
+        "Price": "817"
+    },
+    {
+        "Area": "3599",
+        "Bedrooms": "1",
+        "Bathrooms": "1",
+        "Location": "Rural",
+        "Age of Property": "23",
+        "Price": "543"
+    },
+    {
+        "Area": "700",
+        "Bedrooms": "4",
+        "Bathrooms": "2",
+        "Location": "Rural",
+        "Age of Property": "17",
+        "Price": "446"
+    },
+    {
+        "Area": "3604",
+        "Bedrooms": "3",
+        "Bathrooms": "1",
+        "Location": "Suburban",
+        "Age of Property": "26",
+        "Price": "788"
+    },
+    {
+        "Area": "2954",
+        "Bedrooms": "5",
+        "Bathrooms": "2",
+        "Location": "Rural",
+        "Age of Property": "8",
+        "Price": "739"
+    },
+    {
+        "Area": "4145",
+        "Bedrooms": "3",
+        "Bathrooms": "3",
+        "Location": "Suburban",
+        "Age of Property": "29",
+        "Price": "896"
+    },
+    {
+        "Area": "1304",
+        "Bedrooms": "4",
+        "Bathrooms": "1",
+        "Location": "Downtown",
+        "Age of Property": "26",
+        "Price": "808"
+    },
+    {
+        "Area": "3231",
+        "Bedrooms": "4",
+        "Bathrooms": "1",
+        "Location": "Suburban",
+        "Age of Property": "10",
+        "Price": "833"
+    },
+    {
+        "Area": "3273",
+        "Bedrooms": "3",
+        "Bathrooms": "1",
+        "Location": "Downtown",
+        "Age of Property": "26",
+        "Price": "955"
+    },
+    {
+        "Area": "2070",
+        "Bedrooms": "4",
+        "Bathrooms": "1",
+        "Location": "Suburban",
+        "Age of Property": "34",
+        "Price": "669"
+    },
+    {
+        "Area": "3190",
+        "Bedrooms": "3",
+        "Bathrooms": "2",
+        "Location": "Rural",
+        "Age of Property": "41",
+        "Price": "597"
+    },
+    {
+        "Area": "4340",
+        "Bedrooms": "2",
+        "Bathrooms": "1",
+        "Location": "Rural",
+        "Age of Property": "7",
+        "Price": "700"
+    },
+    {
+        "Area": "1528",
+        "Bedrooms": "3",
+        "Bathrooms": "3",
+        "Location": "Downtown",
+        "Age of Property": "4",
+        "Price": "884"
+    },
+    {
+        "Area": "1002",
+        "Bedrooms": "3",
+        "Bathrooms": "3",
+        "Location": "Downtown",
+        "Age of Property": "45",
+        "Price": "750"
+    },
+    {
+        "Area": "4993",
+        "Bedrooms": "4",
+        "Bathrooms": "1",
+        "Location": "Downtown",
+        "Age of Property": "11",
+        "Price": "1207"
+    },
+    {
+        "Area": "1370",
+        "Bedrooms": "4",
+        "Bathrooms": "3",
+        "Location": "Suburban",
+        "Age of Property": "29",
+        "Price": "669"
+    },
+    {
+        "Area": "4988",
+        "Bedrooms": "1",
+        "Bathrooms": "1",
+        "Location": "Suburban",
+        "Age of Property": "36",
+        "Price": "806"
+    }
+]

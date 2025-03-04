@@ -1,0 +1,216 @@
+/* App.css or a separate CSS file for errors */
+
+.error {
+    color: red;
+    font-size: 12px;
+    margin-top: 5px;
+}
+
+#heading {
+    text-align: center;
+}
+h1{
+    color: #415672;
+    font-weight: bolder;
+}
+/* Body Styles */
+/* Global styles */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Calibri, sans-serif;
+    background-image: url('../assets/BackgroundImage.png'); /* Replace with your image URL */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    overflow-x: hidden; /* Allow vertical scroll, prevent horizontal */
+}
+
+.app-container {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.page-content {
+    flex: 1;
+    padding-top: 76px; /* Height of header */
+    background-image: url('../assets/BackgroundImage.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.main-content {
+    width: 100%;
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 1.5rem;
+    padding-top: 76px;
+    min-height: calc(100vh - 76px);
+    box-sizing: border-box;
+    overflow-y: auto; /* Enable vertical scrolling */
+}
+
+.content-container {
+    display: flex;
+    gap: 1.5rem;
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 1rem;
+    display: flex;
+    gap: 1rem;
+    height: 100%;
+}
+
+.left-section {
+    flex: 0 0 35%;
+    /* background: white; */
+    padding: 1.5rem;
+    /* border-radius: 8px; */
+    /* box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); */
+    padding: 1rem;
+}
+
+.right-section {
+    flex: 0 0 65%;
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    gap: 1rem;
+}
+
+/* Base chart container styles */
+.chart-container {
+    background: white;
+    padding: 1rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    height: 300px !important;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.unsupported-device-message {
+    display: none;
+}
+
+@media (max-width: 1024px) {
+    .main-content {
+        padding-top: 60px;
+        min-height: calc(100vh - 60px);
+    }
+
+    .content-container {
+        max-width: 95%;
+        padding: 0.8rem;
+        gap: 1rem;
+    }
+}
+
+@media (max-width: 768px) {
+    .error {
+        font-size: 11px;
+    }
+
+    .chart-container {
+        margin: 8px 0;
+        height: 260px !important;
+        padding: 0.8rem;
+    }
+
+    .main-content {
+        padding: 1rem;
+        padding-top: 60px;
+    }
+
+    .content-container {
+        padding: 0.5rem;
+    }
+
+    .left-section,
+    .right-section {
+        padding: 0.8rem;
+    }
+}
+
+@media (max-width: 968px) {
+    body {
+        overflow: auto; /* Enable scrolling on mobile */
+    }
+
+    .content-container {
+        flex-direction: column;
+        padding: 0.5rem;
+        height: auto;
+        min-height: calc(100vh - 100px);
+        overflow-y: auto;
+    }
+    
+    .left-section,
+    .right-section {
+        flex: 0 0 100%;
+        width: 100%;
+    }
+    
+    .chart-container {
+        height: 280px !important;
+        margin-bottom: 1rem;
+        padding: 0.8rem;
+    }
+
+    .left-section {
+        margin-bottom: 1rem;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .chart-container {
+        padding: 0.5rem;
+        height: 220px !important;
+        margin-bottom: 0.8rem;
+        width: 100%;
+        max-width: 100%;
+        overflow: hidden;
+    }
+
+    .main-content {
+        padding: 0.5rem;
+        padding-top: 60px;
+        overflow-y: auto;
+    }
+
+    .content-container {
+        padding: 0.3rem;
+        gap: 0.5rem;
+        width: 100%;
+        box-sizing: border-box;
+    }
+
+    .left-section {
+        padding: 0.5rem;
+    }
+
+    .right-section {
+        padding: 0.5rem;
+        gap: 0.5rem;
+        width: 100%;
+        box-sizing: border-box;
+    }
+
+    h1 {
+        font-size: 1.5rem;
+    }
+
+    /* Add smooth scrolling */
+    html {
+        scroll-behavior: smooth;
+    }
+}
+
+@media (min-width: 1025px), (min-height: 381px) {
+    .unsupported-device-message {
+        display: none;
+    }
+}
