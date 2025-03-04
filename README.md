@@ -22,7 +22,7 @@ This app predicts real estate prices using a neural network model implemented wi
 - **Node.js**: Server-side
 
 ## Folder Structure
-```
+
 - build/: Production build
 - public/: Static files (HTML, icons)
 - src/: Source code
@@ -35,7 +35,7 @@ This app predicts real estate prices using a neural network model implemented wi
   - utils/: Utility functions
 - package.json: Project metadata and dependencies
 - README.md: Project overview
-```
+
 
 ## How to Navigate
 - Main code: `src/`
